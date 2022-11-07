@@ -1,2 +1,5 @@
-# NEAR-for-WooCommerce
-NEAR Protocol’s First Open-Source Ecommerce Engine &amp; Payment Solution for WooCommerce
+<div align="center">
+    <img src="img/nfw-logo.png" width=100>
+    <h1>NEAR for WooCommerce</h1>
+    <strong>NEAR Protocol’s First Open-Source Ecommerce Engine & Payment Solution for WooCommerce</strong>
+</div>
