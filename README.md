@@ -3,8 +3,11 @@
     <h1>NEAR for WooCommerce</h1>
     <strong>NEAR Protocol’s First Open-Source Ecommerce Engine & Payment Solution for WooCommerce</strong>
 </div>
-
 <br>
+
+![](https://img.shields.io/badge/Build%20On-NEAR%20Protocol-blue) ![](https://img.shields.io/badge/Available%20for-Mainnet%20%26%20Testnet-blue)
+
+
 
 ## The NEAR Ecommerce Solution for Global Online Merchants 
 
