@@ -4,6 +4,8 @@
     <strong>NEAR Protocol’s First Open-Source Ecommerce Engine & Payment Solution for WooCommerce</strong>
 </div>
 
+<br>
+
 ## The NEAR Ecommerce Solution for Global Online Merchants 
 
 ![world](https://user-images.githubusercontent.com/69501009/201518424-3ac8b9de-a826-4318-a6c7-84fb17cf1d82.svg)
@@ -23,7 +25,7 @@ Imagine all the WooCommerce online stores around the world which still use tradi
 **So, how powerful is NEAR for WooCommerce?** 👇
 
 ## Key Features | NEAR for WooCommerce
-<hr>
+
 ### ◾Dedicated Registration Pipeline for NEAR-Registered Customer
 
 ![register](https://user-images.githubusercontent.com/69501009/201509721-f7c62222-3314-4b54-a16f-7f3c90ef0292.png)
@@ -35,7 +37,7 @@ Imagine all the WooCommerce online stores around the world which still use tradi
 - NEAR customer dashboard in your admin panel to keep track of all your NEAR-registered customers. Check their info, keep track of their order history, look at their on-site statistic, perform one-click built-in actions directly from the NEAR user profile (such as sending a gift card to their email instantly), and much more.
 
 - NEAR customer dashboard built-in statistic system will always keep track of and display the latest overall spending and purchasing statistics (such as AOV). Now, it's easy to know your NEAR customers well!
-<hr>
+
 ###  ◾NEAR Products and Stocks Management System
 
 ![productsystem](https://user-images.githubusercontent.com/69501009/201510207-ff0b597d-fc71-4acb-bf1b-12cab8cae5a9.png)
@@ -52,7 +54,7 @@ Imagine all the WooCommerce online stores around the world which still use tradi
 
 - Built-in NEAR products' draft and scheduled release mode
 
-<hr>
+
 ### ◾Order Management System for NEAR
 
 ![ordersystem](https://user-images.githubusercontent.com/69501009/201510809-cfe7ba96-394f-4284-a927-c02833f4bbc6.png)
@@ -66,7 +68,7 @@ Imagine all the WooCommerce online stores around the world which still use tradi
 - Built-in system to track and display your order statistics to learn more about your NEAR customers' spending habits
 
 - NEAR refund system to deal with canceled orders and refund issues
-<hr>
+
 ### ◾Invoice System for Purchase with NEAR
 
 ![invoice](https://user-images.githubusercontent.com/69501009/201511091-d50d489e-3ea0-43e6-8ac4-87382adb8d2d.png)
@@ -82,7 +84,7 @@ Imagine all the WooCommerce online stores around the world which still use tradi
 - Support instant download of invoices, invoice resend, as well as invoice printing
 
 - Support integration with bookkeeping and accounting software (such as QuickBooks)
-<hr>
+
 ### ◾Organise Marketing Campaign with NEAR
 
 ![marketing](https://user-images.githubusercontent.com/69501009/201511788-1432a811-a2ac-4fab-8fd5-fd09f07e3c93.png)
@@ -94,7 +96,7 @@ Imagine all the WooCommerce online stores around the world which still use tradi
 - NEAR marketing campaign draft and scheduled release mode
 
 - NEAR marketing campaign link generator for third-party applications (such as Facebook and Instagram ads) to monitor customer engagement and referral from external sources
-<hr>
+
 ### ◾NEAR Exclusive Payment Gateway
 
 ![payment](https://user-images.githubusercontent.com/69501009/201512580-28710c0b-c2cd-4a66-aa50-c5061faa890c.png)
@@ -109,7 +111,7 @@ Imagine all the WooCommerce online stores around the world which still use tradi
 
 - Design and customize your own 'Thank You Page' for your NEAR orders with the built-in no code builder
 
-<hr>
+
 ### ◾NEAR's Ecommerce Analytic System
 
 ![analytic](https://user-images.githubusercontent.com/69501009/201512765-fe8a2e4f-46ff-46ff-a974-31bc5fe8e2ae.png)
@@ -123,7 +125,7 @@ Imagine all the WooCommerce online stores around the world which still use tradi
 - Auto revenue report generator for NEAR online merchant owner to track back their revenue statistics
 
 - Expand the power of NEAR-commerce analytics by supporting the integration of third-party analytic tools such as Google Analytics, Facebook Pixel, etc
-<hr>
+
 ## What's The Next Big Step?
 
 ![milestone](https://user-images.githubusercontent.com/69501009/202865723-fa7b3e6e-6ece-4690-a27e-17f4a600bd9d.png)
@@ -166,7 +168,7 @@ After the NEAR MetaBUILD III hackathon, I had a few major milestones (roadmap) i
 - NEAR Reservation and Rental System
 
 ## The Hacker Reflection
-<hr>
+
 ### Challenges I ran into
 
 - Brainstorming the design of the whole NEAR-commerce engine
